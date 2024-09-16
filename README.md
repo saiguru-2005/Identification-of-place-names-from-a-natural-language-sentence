@@ -6,4 +6,4 @@ Description:- Building a geospatial querying system based on natural language re
 NLP to filter out words that are not names of places, then it must do a fuzzy match to
 find candidate canonical names in tables and report the output. Output: Token: Maharashtra,
 Canonical name: Maharashtra, table: State Token: Amdabad, Canonical name: Ahmedabad, table: City Token: New-Zealand, Canonical name: newzealand, table: Country Please
-note that query need not be a question. It can also be an imperative sentence for example. “Show me a graph of rainfall for Chennai for the month of October”
+note that query need not be a question. It can also be an imperative sentence For example :- Show me a graph of rainfall for Chennai for the month of October
